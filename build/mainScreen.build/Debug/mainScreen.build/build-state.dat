@@ -1,0 +1,543 @@
+TmainScreen
+v7
+r1
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/../OverlayView.xib
+c000000004973921900000000000016FC
+t1232310809
+s5884
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/DirectoryMainWindow.xib
+c000000004A4C65CC0000000000004B97
+t1246520780
+s19351
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/RootViewController.xib
+c000000004A494A3F0000000000002A83
+t1246317119
+s10883
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/SecondView.xib
+c000000004A485BC600000000000022BA
+t1246256070
+s8890
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/campusMap.xib
+c000000004B2B35280000000000001D65
+t1261122856
+s7525
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/campusmap.jpg
+c000000004A427EC8000000000019CBB2
+t1245871816
+s1690546
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/directory.xib
+c000000004B2A8ACD00000000000027DE
+t1261079245
+s10206
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/map.xib
+c000000004B2B347800000000000021FC
+t1261122680
+s8700
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/sportsMain.xib
+c000000004A518D5F0000000000001E27
+t1246858591
+s7719
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/sportsTabBar.xib
+c000000004A485DE600000000000031CF
+t1246256614
+s12751
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/sportsView.xib
+c000000004A516CD10000000000001E6C
+t1246850257
+s7788
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/MainWindow.xib
+c000000004A429D9C0000000000001E9B
+t1245879708
+s7835
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/StockSports.jpg
+c000000004A4D345D0000000000007AA7
+t1246573661
+s31399
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/baseball.jpg
+c000000004A4E52A100000000000003AE
+t1246646945
+s942
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/basketball.jpg
+c000000004A4E540C000000000000038D
+t1246647308
+s909
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Info.plist
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/DirectoryMainWindow.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/OverlayView.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/RootViewController.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/SecondView.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/StockSports.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/baseball.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/basketball.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/calendar.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/campusMap.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/campusMapTable.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/campusMapTable2.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/campusmap.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/crosscountry.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/customCalendarXib.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/customNewsCell.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/customSportsCell.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/customSportsViewControllerCell.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/directory.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/fieldhockey.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/football.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/fullArticle.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/golf.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/hockey.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/map.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/newsMain.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/newspaper-icon-1.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/newspaper.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/people.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/person.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/readFullArticle.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/soccer.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/splashScreen.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/sportsMain.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/sportsTabBar.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/sportsView.nib
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/tennis.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/trackandfield.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/volleyball.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/wfu_logo.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/wfu_logo2.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/wfulogo.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Resources/world.jpg
+t2
+s0
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/calendar.jpg
+c000000004A42A8160000000000000401
+t1245882390
+s1025
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/campusMapTable.xib
+c000000004B2DCA510000000000002339
+t1261292113
+s9017
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/campusMapTable2.xib
+c000000004B2DD1A40000000000002ADC
+t1261293988
+s10972
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/crosscountry.jpg
+c000000004A4E53FC0000000000000383
+t1246647292
+s899
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/customCalendarXib.xib
+c000000004B7F34170000000000002762
+t1266627607
+s10082
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/customNewsCell.xib
+c000000004B7F377D00000000000028AE
+t1266628477
+s10414
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/customSportsCell.xib
+c000000004A4E56D20000000000002579
+t1246648018
+s9593
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/customSportsViewControllerCell.xib
+c000000004A51992F0000000000002FCD
+t1246861615
+s12237
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/fieldhockey.jpg
+c000000004A4E53D50000000000000339
+t1246647253
+s825
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/football.jpg
+c000000004A4E53E500000000000003B3
+t1246647269
+s947
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/fullArticle.xib
+c000000004B7F35010000000000004415
+t1266627841
+s17429
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/golf.jpg
+c000000004A4E53C30000000000000386
+t1246647235
+s902
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/hockey.jpg
+c000000004A4E53B000000000000003F4
+t1246647216
+s1012
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/newsMain.xib
+c000000004B330FCF0000000000001DFC
+t1261637583
+s7676
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/newspaper-icon-1.jpg
+c000000004B3309DC00000000000009D6
+t1261636060
+s2518
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/newspaper.jpg
+c000000004A4C9CFA0000000000001A50
+t1246534906
+s6736
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/people.jpg
+c000000004A42A91C00000000000003B1
+t1245882652
+s945
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/person.jpg
+c000000004A42A9E200000000000002D3
+t1245882850
+s723
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/readFullArticle.xib
+c000000004A4C62EC0000000000001E51
+t1246520044
+s7761
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/soccer.jpg
+c000000004A4E539C000000000000039E
+t1246647196
+s926
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/splashScreen.xib
+c000000004B7F1AA20000000000005AFD
+t1266621090
+s23293
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/tennis.jpg
+c000000004A4E53790000000000000390
+t1246647161
+s912
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/trackandfield.jpg
+c000000004A4E533400000000000009AB
+t1246647092
+s2475
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/volleyball.jpg
+c000000004A4E531000000000000003B1
+t1246647056
+s945
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/wfu_logo.jpg
+c000000004B7F1A560000000000006389
+t1266621014
+s25481
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/wfu_logo2.jpg
+c000000004B7F1A1B0000000000006410
+t1266620955
+s25616
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/wfulogo.jpg
+c000000004A429BF80000000000001B82
+t1245879288
+s7042
+
+N/Users/canas/Desktop/Wake Forest iPhone/mainScreen/world.jpg
+c000000004A42A8E8000000000000041C
+t1245882600
+s1052
+
+NmainScreen-Info.plist
+c000000004A429BC3000000000000038D
+t1245879235
+s909
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/../OverlayView.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/DirectoryMainWindow.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/RootViewController.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/SecondView.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/campusMap.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/directory.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/map.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/sportsMain.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/sportsTabBar.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/Classes/sportsView.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/campusMapTable.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/campusMapTable2.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/customCalendarXib.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/customNewsCell.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/customSportsCell.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/customSportsViewControllerCell.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/fullArticle.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/newsMain.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/readFullArticle.xib"
+r0
+
+CCompileXIB "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/splashScreen.xib"
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/StockSports.jpg StockSports.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/baseball.jpg baseball.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/basketball.jpg basketball.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/calendar.jpg calendar.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/campusmap.jpg Classes/campusmap.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/crosscountry.jpg crosscountry.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/fieldhockey.jpg fieldhockey.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/football.jpg football.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/golf.jpg golf.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/hockey.jpg hockey.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/newspaper-icon-1.jpg newspaper-icon-1.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/newspaper.jpg newspaper.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/people.jpg people.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/person.jpg person.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/soccer.jpg soccer.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/tennis.jpg tennis.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/trackandfield.jpg trackandfield.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/volleyball.jpg volleyball.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/wfu_logo.jpg wfu_logo.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/wfu_logo2.jpg wfu_logo2.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/wfulogo.jpg wfulogo.jpg
+r0
+
+CCpResource build/Debug/mainScreen.app/Contents/Resources/world.jpg world.jpg
+r0
+
+CProcessInfoPlistFile "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app/Contents/Info.plist" mainScreen-Info.plist
+r0
+
+CTouch "/Users/canas/Desktop/Wake Forest iPhone/mainScreen/build/Debug/mainScreen.app"
+r0
+

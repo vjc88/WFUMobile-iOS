@@ -1,0 +1,1447 @@
+TWFUMobile
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C5B59520000000000000110
+t1281055058
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C5B401F00000000000001E5
+t1281048607
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004BFF3B8900000000000C4C10
+t1275018121
+s805904
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AddressBook.framework/Headers/AddressBook.h
+c000000004BFF3B830000000000000424
+t1275018115
+s1060
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004C047FB900000000002319F0
+t1275363257
+s2300400
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/AddressBookUI.h
+c000000004C047F9B0000000000000202
+t1275363227
+s514
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004C04800D000000000000027E
+t1275363341
+s638
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04800D00000000000002FE
+t1275363341
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C0480330000000000267F90
+t1275363379
+s2523024
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/ActivityAlertView.h
+c000000004C843FBA0000000000000163
+t1283735482
+s355
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/ActivityAlertView.m
+c000000004C843FBA00000000000002F8
+t1283735482
+s760
+i"ActivityAlertView.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../OverlayView.xib
+c000000004973921900000000000016FC
+t1232310809
+s5884
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../campusMapTable.xib
+c000000004B2DCA510000000000002339
+t1261292113
+s9017
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../campusMapTable2.xib
+c000000004B2DD1A40000000000002ADC
+t1261293988
+s10972
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/CampusMapViewController.h
+c000000004C45AA0600000000000002A1
+t1279633926
+s673
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/CampusMapViewController.m
+c000000004B2B3B95000000000000121F
+t1261124501
+s4639
+i"CampusMapViewController.h"
+i"MyAnnotation.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/DirectoryMainWindow.xib
+c000000004A4C65CC0000000000004B97
+t1246520780
+s19351
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/DirectoryTableView.h
+c000000004B2B15610000000000000162
+t1261114721
+s354
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/DirectoryTableView.m
+c000000004C68C7460000000000002FC4
+t1281935174
+s12228
+i"DirectoryTableView.h"
+i"ReadFullArticleViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/FirstViewController.h
+c000000004A485BC600000000000000EE
+t1246256070
+s238
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/FirstViewController.m
+c000000004A4C68F600000000000005D6
+t1246521590
+s1494
+i"FirstViewController.h"
+i"TabBarShellAppDelegate.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/MyAnnotation.h
+c000000004B170EDA00000000000001C5
+t1259802330
+s453
+i<Foundation/Foundation.h>
+i<MapKit/MKAnnotation.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/MyAnnotation.m
+c000000004B170EDA00000000000000B7
+t1259802330
+s183
+i"MyAnnotation.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/OverlayViewController.h
+c000000004B2B2B260000000000000185
+t1261120294
+s389
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/OverlayViewController.m
+c000000004994E1160000000000000293
+t1234493718
+s659
+i"OverlayViewController.h"
+i"RootViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/PeoplePickerDemoAppDelegate.h
+c000000004A494A3F0000000000000250
+t1246317119
+s592
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/PeoplePickerDemoAppDelegate.m
+c000000004A494A3F00000000000002CE
+t1246317119
+s718
+i"PeoplePickerDemoAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/RootViewController.h
+c000000004A4916D400000000000000CD
+t1246303956
+s205
+i<UIKit/UIKit.h>
+i<AddressBookUI/AddressBookUI.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/RootViewController.m
+c000000004A4917010000000000000956
+t1246304001
+s2390
+i"RootViewController.h"
+i"PeoplePickerDemoAppDelegate.h"
+i"SportsRootViewController.h"
+i<AddressBook/AddressBook.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/RootViewController.xib
+c000000004A494A3F0000000000002A83
+t1246317119
+s10883
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SecondView.xib
+c000000004A485BC600000000000022BA
+t1246256070
+s8890
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SportsRootViewController.h
+c000000004BE46614000000000000023A
+t1273259540
+s570
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SportsRootViewController.m
+c000000004BE467500000000000002CF6
+t1273259856
+s11510
+i"SportsRootViewController.h"
+i"SportsViewController.h"
+i"customSportsCell.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SportsViewController.h
+c000000004BE4690300000000000004B7
+t1273260291
+s1207
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SportsViewController.m
+c000000004C68D9380000000000002ACA
+t1281939768
+s10954
+i"SportsViewController.h"
+i"FullArticleViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/TabBarShellAppDelegate.h
+c000000004A485BC600000000000001E5
+t1246256070
+s485
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/TabBarShellAppDelegate.m
+c000000004A485BC600000000000003CA
+t1246256070
+s970
+i"TabBarShellAppDelegate.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/campusMap.xib
+c000000004B2B35280000000000001D65
+t1261122856
+s7525
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/campusmap.jpg
+c000000004A427EC8000000000019CBB2
+t1245871816
+s1690546
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/directory.xib
+c000000004B2A8ACD00000000000027DE
+t1261079245
+s10206
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainCampusMapViewController.h
+c000000004B2DD8E6000000000000029E
+t1261295846
+s670
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainCampusMapViewController.m
+c000000004B2DD8FB0000000000000E3A
+t1261295867
+s3642
+i"OverlayViewController.h"
+i"mainCampusMapViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainScreenAppDelegate.h
+c000000004BE45C7B000000000000019D
+t1273257083
+s413
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainScreenAppDelegate.m
+c000000004BE45C7B000000000000036A
+t1273257083
+s874
+i"mainScreenAppDelegate.h"
+i"mainScreenViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainScreenViewController.h
+c000000004BE45CCD00000000000002A6
+t1273257165
+s678
+i<UIKit/UIKit.h>
+i<AddressBookUI/AddressBookUI.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainScreenViewController.m
+c000000004C8445120000000000000DDD
+t1283736850
+s3549
+i"mainScreenAppDelegate.h"
+i"mainScreenViewController.h"
+i"rootCalendarView.h"
+i"SportsRootViewController.h"
+i"rootCampusMapViewController.h"
+i"DirectoryTableView.h"
+i"mainNewsViewController.h"
+i"pitScheduleViewController.h"
+i"activity_indicator.h"
+i"ActivityAlertView.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/map.xib
+c000000004B2B347800000000000021FC
+t1261122680
+s8700
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/rootCampusMapViewController.h
+c000000004BF0291E000000000000033F
+t1274030366
+s831
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/rootCampusMapViewController.m
+c000000004C8405B1000000000000454A
+t1283720625
+s17738
+i"OverlayViewController.h"
+i"rootCampusMapViewController.h"
+i"CampusMapViewController.h"
+i"MyAnnotation.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsMain.xib
+c000000004A518D5F0000000000001E27
+t1246858591
+s7719
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsScores.h
+c000000004A485B5600000000000000DF
+t1246255958
+s223
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsScores.m
+c000000004A485B5600000000000005DB
+t1246255958
+s1499
+i"sportsScores.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBar.xib
+c000000004A485DE600000000000031CF
+t1246256614
+s12751
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBarViewController.h
+c000000004A485CF200000000000000F5
+t1246256370
+s245
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBarViewController.m
+c000000004A485CF200000000000005C1
+t1246256370
+s1473
+i"sportsTabBarViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsView.xib
+c000000004A516CD10000000000001E6C
+t1246850257
+s7788
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.h
+c000000004C6A232F000000000000038D
+t1282024239
+s909
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.m
+c000000004BE4694A00000000000005D6
+t1273260362
+s1494
+i"FullArticleViewController.h"
+i"SportsViewController.h"
+i"ReadFullArticleViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/MainWindow.xib
+c000000004A429D9C0000000000001E9B
+t1245879708
+s7835
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/ReadFullArticleViewController.h
+c000000004D86BB8B00000000000001C2
+t1300675467
+s450
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/ReadFullArticleViewController.m
+c000000004D86BDC80000000000000653
+t1300676040
+s1619
+i"ReadFullArticleViewController.h"
+i"FullArticleViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/StockSports.jpg
+c000000004A4D345D0000000000007AA7
+t1246573661
+s31399
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/WFUMobile_Prefix.pch
+c000000004A429BC300000000000000BD
+t1245879235
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/activity_indicator.h
+c000000004C84085D0000000000000123
+t1283721309
+s291
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/activity_indicator.m
+c000000004C8409E9000000000000026D
+t1283721705
+s621
+i"activity_indicator.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/activity_indicator.xib
+c000000004C840AB100000000000021E2
+t1283721905
+s8674
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/baseball.jpg
+c000000004A4E52A100000000000003AE
+t1246646945
+s942
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/basketball.jpg
+c000000004A4E540C000000000000038D
+t1246647308
+s909
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app.dSYM
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/DirectoryMainWindow.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/Info.plist
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/MainWindow.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/OverlayView.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/PkgInfo
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/ResourceRules.plist
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/RootViewController.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/SecondView.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/StockSports.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/WFUMobile
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/activity_indicator.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/baseball.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/basketball.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/calendar.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/campusMap.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/campusMapTable.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/campusMapTable2.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/campusmap.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/crosscountry.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/customCalendarXib.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/customNewsCell.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/customSportsCell.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/customSportsViewControllerCell.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/directory.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/fieldhockey.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/food.png
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/football.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/fullArticle.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/golf.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/hockey.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/icon.png
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/map.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/newsMain.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/newspaper.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/people.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/person.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/readFullArticle.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/soccer.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/splashScreen.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/sportsMain.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/sportsTabBar.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/sportsView.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/tennis.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/trackandfield.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/volleyball.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/wfu_logo.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/world.jpg
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/ActivityAlertView.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/CampusMapViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/DirectoryTableView.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/FirstViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/FullArticleViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/MyAnnotation.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/OverlayViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/PeoplePickerDemoAppDelegate.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/ReadFullArticleViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/SportsRootViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/SportsViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/TabBarShellAppDelegate.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/WFUMobile
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/WFUMobile.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/activity_indicator.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/calendarViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/customSportsCell.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/mainCampusMapViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/mainNewsViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/mainScreenAppDelegate.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/mainScreenViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/newsViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/pitMenuViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/pitScheduleViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/rootCalendarView.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/rootCampusMapViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/sportsScores.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/sportsTabBarViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/ActivityAlertView.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/CampusMapViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/DirectoryTableView.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/FirstViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/FullArticleViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/MyAnnotation.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/OverlayViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/PeoplePickerDemoAppDelegate.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/ReadFullArticleViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/RootViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/SportsRootViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/SportsViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/TabBarShellAppDelegate.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/WFUMobile
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/WFUMobile.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/activity_indicator.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/calendarViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/customSportsCell.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/mainCampusMapViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/mainNewsViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/mainScreenAppDelegate.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/mainScreenViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/newsViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/pitMenuViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/pitScheduleViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/rootCalendarView.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/rootCampusMapViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/sportsScores.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/sportsTabBarViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/calendar.jpg
+c000000004A42A8160000000000000401
+t1245882390
+s1025
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/calendarViewController.h
+c000000004BE4661400000000000004B6
+t1273259540
+s1206
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/calendarViewController.m
+c000000004BE466140000000000001E0E
+t1273259540
+s7694
+i"calendarViewController.h"
+i"FullArticleViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/crosscountry.jpg
+c000000004A4E53FC0000000000000383
+t1246647292
+s899
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customCalendarXib.xib
+c000000004B7F34170000000000002762
+t1266627607
+s10082
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customNewsCell.xib
+c000000004CC87FDA0000000000005BD5
+t1288208346
+s23509
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsCell.h
+c000000004A4D65370000000000000232
+t1246586167
+s562
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsCell.m
+c000000004A4D655400000000000007A5
+t1246586196
+s1957
+i"customSportsCell.h"
+i"SportsRootViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsCell.xib
+c000000004A4E56D20000000000002579
+t1246648018
+s9593
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsViewControllerCell.xib
+c000000004C68DA930000000000005F05
+t1281940115
+s24325
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/fieldhockey.jpg
+c000000004A4E53D50000000000000339
+t1246647253
+s825
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/food.png
+c0000000042338AC60000000000002EAC
+t1110674118
+s11948
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/football.jpg
+c000000004A4E53E500000000000003B3
+t1246647269
+s947
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/fullArticle.xib
+c000000004BC793CF0000000000004E96
+t1271370703
+s20118
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/golf.jpg
+c000000004A4E53C30000000000000386
+t1246647235
+s902
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/hockey.jpg
+c000000004A4E53B000000000000003F4
+t1246647216
+s1012
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/icon.png
+c000000004C69768000000000000012F7
+t1281980032
+s4855
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/main.m
+c000000004A429BC3000000000000016C
+t1245879235
+s364
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/mainNewsViewController.h
+c000000004B3329690000000000000133
+t1261644137
+s307
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/mainNewsViewController.m
+c000000004C68DD780000000000002D53
+t1281940856
+s11603
+i"mainNewsViewController.h"
+i"newsViewController.h"
+i"FullArticleViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newsMain.xib
+c000000004B330FCF0000000000001DFC
+t1261637583
+s7676
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newsViewController.h
+c000000004C68D44B00000000000004B8
+t1281938507
+s1208
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newsViewController.m
+c000000004C68D8030000000000003504
+t1281939459
+s13572
+i"newsViewController.h"
+i"FullArticleViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newspaper.jpg
+c000000004B3309DC00000000000009D6
+t1261636060
+s2518
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/people.jpg
+c000000004C02DC7B0000000000001223
+t1275255931
+s4643
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/person.jpg
+c0000000048E82B4200000000000018CF
+t1223174978
+s6351
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/pitMenuViewController.h
+c000000004BD216C6000000000000019A
+t1272059590
+s410
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/pitMenuViewController.m
+c000000004D86BA3C000000000000168B
+t1300675132
+s5771
+i"pitMenuViewController.h"
+i"ReadFullArticleViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/pitScheduleViewController.h
+c000000004BD21330000000000000014D
+t1272058672
+s333
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/pitScheduleViewController.m
+c000000004C68DF460000000000001679
+t1281941318
+s5753
+i"pitScheduleViewController.h"
+i"pitMenuViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/readFullArticle.xib
+c000000004A4C62EC0000000000001E51
+t1246520044
+s7761
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/rootCalendarView.h
+c000000004B35C5760000000000000125
+t1261815158
+s293
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/rootCalendarView.m
+c000000004C68CBF400000000000008DC
+t1281936372
+s2268
+i"rootCalendarView.h"
+i"calendarViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/soccer.jpg
+c000000004A4E539C000000000000039E
+t1246647196
+s926
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/splashScreen.xib
+c000000004C68E4DE000000000000A0CE
+t1281942750
+s41166
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/tennis.jpg
+c000000004A4E53790000000000000390
+t1246647161
+s912
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/trackandfield.jpg
+c000000004A4E533400000000000009AB
+t1246647092
+s2475
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/volleyball.jpg
+c000000004A4E531000000000000003B1
+t1246647056
+s945
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/wfu_logo.jpg
+c000000004B7F1A560000000000006389
+t1266621014
+s25481
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/world.jpg
+c000000004C0AA6500000000000001370
+t1275766352
+s4976
+
+N/var/folders/XJ/XJ0spqiwGcOICSU4dM4Nsk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WFUMobile_Prefix-adwtsvzfpuuauddjmenfonvjfkqo/WFUMobile_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/XJ/XJ0spqiwGcOICSU4dM4Nsk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WFUMobile_Prefix-fkkfeaavpzlwleeyrzqtygyqltis/WFUMobile_Prefix.pch.gch
+t2
+s0
+
+NWFUMobile-Info.plist
+c000000004D43768B0000000000000373
+t1296266891
+s883
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322368867#322368867#0(98"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any identity in any profile1(4@90"Code Sign error: The identity 'iPhone Developer' doesn't match any identity in any profile322368867#18446744073709551615#0#0(1@0"0(0#1#0"8609765984#0"0#
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/ActivityAlertView.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/ActivityAlertView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/CampusMapViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/CampusMapViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/DirectoryTableView.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/DirectoryTableView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/FirstViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/FirstViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/FullArticleViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/MyAnnotation.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/MyAnnotation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/OverlayViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/OverlayViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/PeoplePickerDemoAppDelegate.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/PeoplePickerDemoAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/ReadFullArticleViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/ReadFullArticleViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/RootViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/SportsRootViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SportsRootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/SportsViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SportsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/TabBarShellAppDelegate.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/TabBarShellAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/activity_indicator.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/activity_indicator.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/calendarViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/calendarViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/customSportsCell.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/main.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/mainCampusMapViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainCampusMapViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/mainNewsViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/mainNewsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/mainScreenAppDelegate.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainScreenAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/mainScreenViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainScreenViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/newsViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/pitMenuViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/pitMenuViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/pitScheduleViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/pitScheduleViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/rootCalendarView.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/rootCalendarView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/rootCampusMapViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/rootCampusMapViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/sportsScores.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsScores.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/sportsTabBarViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBarViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/ActivityAlertView.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/ActivityAlertView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/CampusMapViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/CampusMapViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/DirectoryTableView.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/DirectoryTableView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/FirstViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/FirstViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/FullArticleViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/MyAnnotation.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/MyAnnotation.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/OverlayViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/OverlayViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/PeoplePickerDemoAppDelegate.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/PeoplePickerDemoAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/ReadFullArticleViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/ReadFullArticleViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/RootViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/SportsRootViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SportsRootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/SportsViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SportsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/TabBarShellAppDelegate.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/TabBarShellAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/activity_indicator.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/activity_indicator.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/calendarViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/calendarViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/customSportsCell.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsCell.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/main.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/mainCampusMapViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainCampusMapViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/mainNewsViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/mainNewsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/mainScreenAppDelegate.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainScreenAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/mainScreenViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainScreenViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/newsViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/pitMenuViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/pitMenuViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/pitScheduleViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/pitScheduleViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/rootCalendarView.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/rootCalendarView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/rootCampusMapViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/rootCampusMapViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/sportsScores.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsScores.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/sportsTabBarViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBarViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../OverlayView.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../campusMapTable.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../campusMapTable2.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/DirectoryMainWindow.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/RootViewController.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SecondView.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/campusMap.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/directory.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/map.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsMain.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBar.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsView.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/activity_indicator.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customCalendarXib.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customNewsCell.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsCell.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsViewControllerCell.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/fullArticle.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newsMain.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/readFullArticle.xib"
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/splashScreen.xib"
+r0
+
+CCopyPNGFile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/food.png" food.png
+r0
+
+CCopyPNGFile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/icon.png" icon.png
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/StockSports.jpg StockSports.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/baseball.jpg baseball.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/basketball.jpg basketball.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/calendar.jpg calendar.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/campusmap.jpg Classes/campusmap.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/crosscountry.jpg crosscountry.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/fieldhockey.jpg fieldhockey.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/football.jpg football.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/golf.jpg golf.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/hockey.jpg hockey.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/newspaper.jpg newspaper.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/people.jpg people.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/person.jpg person.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/soccer.jpg soccer.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/tennis.jpg tennis.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/trackandfield.jpg trackandfield.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/volleyball.jpg volleyball.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/wfu_logo.jpg wfu_logo.jpg
+r0
+
+CCpResource build/Debug-iphoneos/WFUMobile.app/world.jpg world.jpg
+r0
+
+CCreateUniversalBinary "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/WFUMobile" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app.dSYM" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/WFUMobile"
+r0
+
+CLd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv6/WFUMobile" normal armv6
+r0
+
+CLd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/WFUMobile.build/Debug-iphoneos/WFUMobile.build/Objects-normal/armv7/WFUMobile" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app/Info.plist" WFUMobile-Info.plist
+r0
+
+CProcessPCH /var/folders/XJ/XJ0spqiwGcOICSU4dM4Nsk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WFUMobile_Prefix-adwtsvzfpuuauddjmenfonvjfkqo/WFUMobile_Prefix.pch.gch WFUMobile_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/XJ/XJ0spqiwGcOICSU4dM4Nsk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WFUMobile_Prefix-fkkfeaavpzlwleeyrzqtygyqltis/WFUMobile_Prefix.pch.gch WFUMobile_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphoneos/WFUMobile.app"
+r0
+

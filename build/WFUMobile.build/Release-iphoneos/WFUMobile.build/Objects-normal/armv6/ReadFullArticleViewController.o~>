@@ -1,0 +1,15 @@
+In file included from /Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/ReadFullArticleViewController.m:10:
+/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.h:32: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.h:32: warning: assign attribute (default) not appropriate for non-gc object property 'title'
+/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.h:33: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.h:33: warning: assign attribute (default) not appropriate for non-gc object property 'date'
+/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.h:34: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.h:34: warning: assign attribute (default) not appropriate for non-gc object property 'summary'
+/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.h:35: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.h:35: warning: assign attribute (default) not appropriate for non-gc object property 'url'
+/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.h:36: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.h:36: warning: assign attribute (default) not appropriate for non-gc object property 'pictureURL'
+/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.h:41: warning: property 'title' 'copy' attribute does not match super class 'UIViewController' property
+/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.h:41: warning: property 'title' and its super class 'UIViewController' don't have matching 'atomic' attribute
+/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/ReadFullArticleViewController.m:67: warning: property 'webView' requires method '-webView' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/ReadFullArticleViewController.m:67: warning: property 'webView' requires the method 'setWebView:' to be defined - use @synthesize, @dynamic or provide a method implementation

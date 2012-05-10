@@ -1,0 +1,1507 @@
+TCampusConnect
+v7
+r3
+t309901050.685510
+cCheck dependencies
+cProcessInfoPlistFile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/Info.plist" CampusConnect-Info.plist
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/MainWindow.xib"
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/splashScreen.xib"
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/calendar.jpg calendar.jpg
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/directory.xib"
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/map.xib"
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsView.xib"
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsMain.xib"
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBar.xib"
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/RootViewController.xib"
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SecondView.xib"
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/DirectoryMainWindow.xib"
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/fullArticle.xib"
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/readFullArticle.xib"
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/volleyball.jpg volleyball.jpg
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/baseball.jpg baseball.jpg
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/basketball.jpg basketball.jpg
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/crosscountry.jpg crosscountry.jpg
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/fieldhockey.jpg fieldhockey.jpg
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/football.jpg football.jpg
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/golf.jpg golf.jpg
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/hockey.jpg hockey.jpg
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/soccer.jpg soccer.jpg
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/tennis.jpg tennis.jpg
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/trackandfield.jpg trackandfield.jpg
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/StockSports.jpg StockSports.jpg
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsCell.xib"
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsViewControllerCell.xib"
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/campusmap.jpg Classes/campusmap.jpg
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../OverlayView.xib"
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../campusMapTable.xib"
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/campusMap.xib"
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../campusMapTable2.xib"
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/newspaper.jpg newspaper.jpg
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newsMain.xib"
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customNewsCell.xib"
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/wfu_logo.jpg wfu_logo.jpg
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customCalendarXib.xib"
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/food.png food.png
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/world.jpg world.jpg
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/people.jpg people.jpg
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/person.jpg person.jpg
+cCpResource build/Debug-iphonesimulator/CampusConnect.app/icon.png icon.png
+cCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/activity_indicator.xib"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C695F3E0000000000000132
+t1281974078
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004BFF3B87000000000006F150
+t1275018119
+s454992
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AddressBook.framework/Headers/AddressBook.h
+c000000004BFF3B830000000000000424
+t1275018115
+s1060
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004C04722E0000000000147690
+t1275359790
+s1341072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/AddressBookUI.h
+c000000004C0472220000000000000202
+t1275359778
+s514
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004C047247000000000000027E
+t1275359815
+s638
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/ActivityAlertView.h
+c000000004C843FBA0000000000000163
+t1283735482
+s355
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/ActivityAlertView.m
+c000000004C843FBA00000000000002F8
+t1283735482
+s760
+i"ActivityAlertView.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/CampusConnect_Prefix.pch
+c000000004A429BC300000000000000BD
+t1245879235
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../OverlayView.xib
+c000000004973921900000000000016FC
+t1232310809
+s5884
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../campusMapTable.xib
+c000000004B2DCA510000000000002339
+t1261292113
+s9017
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../campusMapTable2.xib
+c000000004B2DD1A40000000000002ADC
+t1261293988
+s10972
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/CampusMapViewController.h
+c000000004C45AA0600000000000002A1
+t1279633926
+s673
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/CampusMapViewController.m
+c000000004B2B3B95000000000000121F
+t1261124501
+s4639
+i"CampusMapViewController.h"
+i"MyAnnotation.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/DirectoryMainWindow.xib
+c000000004A4C65CC0000000000004B97
+t1246520780
+s19351
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/DirectoryTableView.h
+c000000004B2B15610000000000000162
+t1261114721
+s354
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/DirectoryTableView.m
+c000000004C68C7460000000000002FC4
+t1281935174
+s12228
+i"DirectoryTableView.h"
+i"ReadFullArticleViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/FirstViewController.h
+c000000004A485BC600000000000000EE
+t1246256070
+s238
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/FirstViewController.m
+c000000004A4C68F600000000000005D6
+t1246521590
+s1494
+i"FirstViewController.h"
+i"TabBarShellAppDelegate.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/MyAnnotation.h
+c000000004B170EDA00000000000001C5
+t1259802330
+s453
+i<Foundation/Foundation.h>
+i<MapKit/MKAnnotation.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/MyAnnotation.m
+c000000004B170EDA00000000000000B7
+t1259802330
+s183
+i"MyAnnotation.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/OverlayViewController.h
+c000000004B2B2B260000000000000185
+t1261120294
+s389
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/OverlayViewController.m
+c000000004994E1160000000000000293
+t1234493718
+s659
+i"OverlayViewController.h"
+i"RootViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/PeoplePickerDemoAppDelegate.h
+c000000004A494A3F0000000000000250
+t1246317119
+s592
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/PeoplePickerDemoAppDelegate.m
+c000000004A494A3F00000000000002CE
+t1246317119
+s718
+i"PeoplePickerDemoAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/RootViewController.h
+c000000004A4916D400000000000000CD
+t1246303956
+s205
+i<UIKit/UIKit.h>
+i<AddressBookUI/AddressBookUI.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/RootViewController.m
+c000000004A4917010000000000000956
+t1246304001
+s2390
+i"RootViewController.h"
+i"PeoplePickerDemoAppDelegate.h"
+i"SportsRootViewController.h"
+i<AddressBook/AddressBook.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/RootViewController.xib
+c000000004A494A3F0000000000002A83
+t1246317119
+s10883
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SecondView.xib
+c000000004A485BC600000000000022BA
+t1246256070
+s8890
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SportsRootViewController.h
+c000000004BE46614000000000000023A
+t1273259540
+s570
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SportsRootViewController.m
+c000000004BE467500000000000002CF6
+t1273259856
+s11510
+i"SportsRootViewController.h"
+i"SportsViewController.h"
+i"customSportsCell.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SportsViewController.h
+c000000004BE4690300000000000004B7
+t1273260291
+s1207
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SportsViewController.m
+c000000004C68D9380000000000002ACA
+t1281939768
+s10954
+i"SportsViewController.h"
+i"FullArticleViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/TabBarShellAppDelegate.h
+c000000004A485BC600000000000001E5
+t1246256070
+s485
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/TabBarShellAppDelegate.m
+c000000004A485BC600000000000003CA
+t1246256070
+s970
+i"TabBarShellAppDelegate.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/campusMap.xib
+c000000004B2B35280000000000001D65
+t1261122856
+s7525
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/campusmap.jpg
+c000000004A427EC8000000000019CBB2
+t1245871816
+s1690546
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/directory.xib
+c000000004B2A8ACD00000000000027DE
+t1261079245
+s10206
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainCampusMapViewController.h
+c000000004B2DD8E6000000000000029E
+t1261295846
+s670
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainCampusMapViewController.m
+c000000004B2DD8FB0000000000000E3A
+t1261295867
+s3642
+i"OverlayViewController.h"
+i"mainCampusMapViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainScreenAppDelegate.h
+c000000004BE45C7B000000000000019D
+t1273257083
+s413
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainScreenAppDelegate.m
+c000000004BE45C7B000000000000036A
+t1273257083
+s874
+i"mainScreenAppDelegate.h"
+i"mainScreenViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainScreenViewController.h
+c000000004BE45CCD00000000000002A6
+t1273257165
+s678
+i<UIKit/UIKit.h>
+i<AddressBookUI/AddressBookUI.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainScreenViewController.m
+c000000004C8445120000000000000DDD
+t1283736850
+s3549
+i"mainScreenAppDelegate.h"
+i"mainScreenViewController.h"
+i"rootCalendarView.h"
+i"SportsRootViewController.h"
+i"rootCampusMapViewController.h"
+i"DirectoryTableView.h"
+i"mainNewsViewController.h"
+i"pitScheduleViewController.h"
+i"activity_indicator.h"
+i"ActivityAlertView.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/map.xib
+c000000004B2B347800000000000021FC
+t1261122680
+s8700
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/rootCampusMapViewController.h
+c000000004BF0291E000000000000033F
+t1274030366
+s831
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/rootCampusMapViewController.m
+c000000004C8405B1000000000000454A
+t1283720625
+s17738
+i"OverlayViewController.h"
+i"rootCampusMapViewController.h"
+i"CampusMapViewController.h"
+i"MyAnnotation.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsMain.xib
+c000000004A518D5F0000000000001E27
+t1246858591
+s7719
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsScores.h
+c000000004A485B5600000000000000DF
+t1246255958
+s223
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsScores.m
+c000000004A485B5600000000000005DB
+t1246255958
+s1499
+i"sportsScores.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBar.xib
+c000000004A485DE600000000000031CF
+t1246256614
+s12751
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBarViewController.h
+c000000004A485CF200000000000000F5
+t1246256370
+s245
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBarViewController.m
+c000000004A485CF200000000000005C1
+t1246256370
+s1473
+i"sportsTabBarViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsView.xib
+c000000004A516CD10000000000001E6C
+t1246850257
+s7788
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.h
+c000000004C6A232F000000000000038D
+t1282024239
+s909
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.m
+c000000004BE4694A00000000000005D6
+t1273260362
+s1494
+i"FullArticleViewController.h"
+i"SportsViewController.h"
+i"ReadFullArticleViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/MainWindow.xib
+c000000004A429D9C0000000000001E9B
+t1245879708
+s7835
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/ReadFullArticleViewController.h
+c000000004BE4697D000000000000019E
+t1273260413
+s414
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/ReadFullArticleViewController.m
+c000000004BE4697D000000000000045D
+t1273260413
+s1117
+i"ReadFullArticleViewController.h"
+i"FullArticleViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/StockSports.jpg
+c000000004A4D345D0000000000007AA7
+t1246573661
+s31399
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/activity_indicator.h
+c000000004C84085D0000000000000123
+t1283721309
+s291
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/activity_indicator.m
+c000000004C8409E9000000000000026D
+t1283721705
+s621
+i"activity_indicator.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/activity_indicator.xib
+c000000004C840AB100000000000021E2
+t1283721905
+s8674
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/baseball.jpg
+c000000004A4E52A100000000000003AE
+t1246646945
+s942
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/basketball.jpg
+c000000004A4E540C000000000000038D
+t1246647308
+s909
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/ActivityAlertView.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/CampusConnect.LinkFileList
+c000000004CC87F6F00000000000014BA
+t1288208239
+s5306
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/CampusMapViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/DirectoryTableView.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/FirstViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/FullArticleViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/MyAnnotation.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/OverlayViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/PeoplePickerDemoAppDelegate.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/ReadFullArticleViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/RootViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/SportsRootViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/SportsViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/TabBarShellAppDelegate.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/activity_indicator.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/calendarViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/customSportsCell.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/mainCampusMapViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/mainNewsViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/mainScreenAppDelegate.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/mainScreenViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/newsViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/pitMenuViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/pitScheduleViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/rootCalendarView.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/rootCampusMapViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/sportsScores.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/sportsTabBarViewController.o
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app.dSYM
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/CampusConnect
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/DirectoryMainWindow.nib
+t1288208245
+s2734
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/Info.plist
+t1288208239
+s628
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/MainWindow.nib
+t1288208241
+s963
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/OverlayView.nib
+t1288208247
+s764
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/PkgInfo
+t1288208239
+s8
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/RootViewController.nib
+t1288208244
+s1723
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/SecondView.nib
+t1288208244
+s1704
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/StockSports.jpg
+t1288208245
+s31399
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/activity_indicator.nib
+t2
+s0
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/baseball.jpg
+t1288208245
+s942
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/basketball.jpg
+t1288208245
+s909
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/calendar.jpg
+t1288208241
+s1025
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/campusMap.nib
+t1288208248
+s1167
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/campusMapTable.nib
+t1288208248
+s1167
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/campusMapTable2.nib
+t1288208249
+s1578
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/campusmap.jpg
+t1288208246
+s1690546
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/crosscountry.jpg
+t1288208245
+s899
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/customCalendarXib.nib
+t1288208249
+s1691
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/customNewsCell.nib
+t1288208249
+s1845
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/customSportsCell.nib
+t1288208246
+s1673
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/customSportsViewControllerCell.nib
+t1288208247
+s2015
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/directory.nib
+t1288208242
+s1509
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/fieldhockey.jpg
+t1288208245
+s825
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/food.png
+t1288208249
+s11948
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/football.jpg
+t1288208245
+s947
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/fullArticle.nib
+t1288208245
+s2486
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/golf.jpg
+t1288208245
+s902
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/hockey.jpg
+t1288208245
+s1012
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/icon.png
+t1288208250
+s4855
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/map.nib
+t1288208243
+s1509
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/newsMain.nib
+t1288208249
+s1021
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/newspaper.jpg
+t1288208248
+s2518
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/people.jpg
+t1288208249
+s4643
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/person.jpg
+t1288208250
+s6351
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/readFullArticle.nib
+t1288208246
+s1014
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/soccer.jpg
+t1288208245
+s926
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/splashScreen.nib
+t1288208241
+s3739
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/sportsMain.nib
+t1288208243
+s979
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/sportsTabBar.nib
+t1288208243
+s1601
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/sportsView.nib
+t1288208242
+s1135
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/tennis.jpg
+t1288208245
+s912
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/trackandfield.jpg
+t1288208245
+s2475
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/volleyball.jpg
+t1288208245
+s945
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/wfu_logo.jpg
+t1288208249
+s25481
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/world.jpg
+t1288208250
+s4976
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/calendar.jpg
+c000000004A42A8160000000000000401
+t1245882390
+s1025
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/calendarViewController.h
+c000000004BE4661400000000000004B6
+t1273259540
+s1206
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/calendarViewController.m
+c000000004BE466140000000000001E0E
+t1273259540
+s7694
+i"calendarViewController.h"
+i"FullArticleViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/crosscountry.jpg
+c000000004A4E53FC0000000000000383
+t1246647292
+s899
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customCalendarXib.xib
+c000000004B7F34170000000000002762
+t1266627607
+s10082
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customNewsCell.xib
+c000000004C68DA010000000000005E48
+t1281939969
+s24136
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsCell.h
+c000000004A4D65370000000000000232
+t1246586167
+s562
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsCell.m
+c000000004A4D655400000000000007A5
+t1246586196
+s1957
+i"customSportsCell.h"
+i"SportsRootViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsCell.xib
+c000000004A4E56D20000000000002579
+t1246648018
+s9593
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsViewControllerCell.xib
+c000000004C68DA930000000000005F05
+t1281940115
+s24325
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/fieldhockey.jpg
+c000000004A4E53D50000000000000339
+t1246647253
+s825
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/food.png
+c0000000042338AC60000000000002EAC
+t1110674118
+s11948
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/football.jpg
+c000000004A4E53E500000000000003B3
+t1246647269
+s947
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/fullArticle.xib
+c000000004BC793CF0000000000004E96
+t1271370703
+s20118
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/golf.jpg
+c000000004A4E53C30000000000000386
+t1246647235
+s902
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/hockey.jpg
+c000000004A4E53B000000000000003F4
+t1246647216
+s1012
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/icon.png
+c000000004C69768000000000000012F7
+t1281980032
+s4855
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/main.m
+c000000004A429BC3000000000000016C
+t1245879235
+s364
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/mainNewsViewController.h
+c000000004B3329690000000000000133
+t1261644137
+s307
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/mainNewsViewController.m
+c000000004C68DD780000000000002D53
+t1281940856
+s11603
+i"mainNewsViewController.h"
+i"newsViewController.h"
+i"FullArticleViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newsMain.xib
+c000000004B330FCF0000000000001DFC
+t1261637583
+s7676
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newsViewController.h
+c000000004C68D44B00000000000004B8
+t1281938507
+s1208
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newsViewController.m
+c000000004C68D8030000000000003504
+t1281939459
+s13572
+i"newsViewController.h"
+i"FullArticleViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newspaper.jpg
+c000000004B3309DC00000000000009D6
+t1261636060
+s2518
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/people.jpg
+c000000004C02DC7B0000000000001223
+t1275255931
+s4643
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/person.jpg
+c0000000048E82B4200000000000018CF
+t1223174978
+s6351
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/pitMenuViewController.h
+c000000004BD216C6000000000000019A
+t1272059590
+s410
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/pitMenuViewController.m
+c000000004BD2173100000000000014D6
+t1272059697
+s5334
+i"pitMenuViewController.h"
+i"ReadFullArticleViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/pitScheduleViewController.h
+c000000004BD21330000000000000014D
+t1272058672
+s333
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/pitScheduleViewController.m
+c000000004C68DF460000000000001679
+t1281941318
+s5753
+i"pitScheduleViewController.h"
+i"pitMenuViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/readFullArticle.xib
+c000000004A4C62EC0000000000001E51
+t1246520044
+s7761
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/rootCalendarView.h
+c000000004B35C5760000000000000125
+t1261815158
+s293
+i<UIKit/UIKit.h>
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/rootCalendarView.m
+c000000004C68CBF400000000000008DC
+t1281936372
+s2268
+i"rootCalendarView.h"
+i"calendarViewController.h"
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/soccer.jpg
+c000000004A4E539C000000000000039E
+t1246647196
+s926
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/splashScreen.xib
+c000000004C68E4DE000000000000A0CE
+t1281942750
+s41166
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/tennis.jpg
+c000000004A4E53790000000000000390
+t1246647161
+s912
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/trackandfield.jpg
+c000000004A4E533400000000000009AB
+t1246647092
+s2475
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/volleyball.jpg
+c000000004A4E531000000000000003B1
+t1246647056
+s945
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/wfu_logo.jpg
+c000000004B7F1A560000000000006389
+t1266621014
+s25481
+
+N/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/world.jpg
+c000000004C0AA6500000000000001370
+t1275766352
+s4976
+
+N/var/folders/XJ/XJ0spqiwGcOICSU4dM4Nsk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CampusConnect_Prefix-ciioutqudnmtyzbzemhxpnhsjwzb/CampusConnect_Prefix.pch.gch
+t2
+s0
+
+NCampusConnect-Info.plist
+c000000004C6A277C000000000000036E
+t1282025340
+s878
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309901039#309901039#0(0"0(0#1#0"8623865952#0"0#
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/ActivityAlertView.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/ActivityAlertView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/CampusMapViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/CampusMapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/DirectoryTableView.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/DirectoryTableView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/FirstViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/FullArticleViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/FullArticleViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/MyAnnotation.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/MyAnnotation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/OverlayViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/OverlayViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/PeoplePickerDemoAppDelegate.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/PeoplePickerDemoAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/ReadFullArticleViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/ReadFullArticleViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/RootViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/SportsRootViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SportsRootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/SportsViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SportsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/TabBarShellAppDelegate.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/TabBarShellAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/activity_indicator.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/activity_indicator.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/calendarViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/calendarViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/customSportsCell.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsCell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/main.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/mainCampusMapViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainCampusMapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/mainNewsViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/mainNewsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/mainScreenAppDelegate.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainScreenAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/mainScreenViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/mainScreenViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/newsViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/pitMenuViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/pitMenuViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/pitScheduleViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/pitScheduleViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/rootCalendarView.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/rootCalendarView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/rootCampusMapViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/rootCampusMapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/sportsScores.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsScores.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CampusConnect.build/Debug-iphonesimulator/CampusConnect.build/Objects-normal/i386/sportsTabBarViewController.o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBarViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../OverlayView.xib"
+s309901046.208761
+e309901047.486240
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../OverlayView.xib
+lSLF07#2@37"CompileXIB Classes/../OverlayView.xib309901046#309901047#0(0"0(0#0#104"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../OverlayView.xib8620288736#712"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/OverlayView.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../OverlayView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../campusMapTable.xib"
+s309901047.486336
+e309901048.511322
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../campusMapTable.xib
+lSLF07#2@40"CompileXIB Classes/../campusMapTable.xib309901047#309901048#0(0"0(0#0#107"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../campusMapTable.xib8622310720#718"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/campusMapTable.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../campusMapTable.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../campusMapTable2.xib"
+s309901048.511426
+e309901049.326287
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../campusMapTable2.xib
+lSLF07#2@41"CompileXIB Classes/../campusMapTable2.xib309901048#309901049#0(0"0(0#0#108"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../campusMapTable2.xib8601524032#720"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/campusMapTable2.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/../campusMapTable2.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/DirectoryMainWindow.xib"
+s309901044.248516
+e309901045.056176
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/DirectoryMainWindow.xib
+lSLF07#2@42"CompileXIB Classes/DirectoryMainWindow.xib309901044#309901045#0(0"0(0#0#109"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/DirectoryMainWindow.xib8623824896#725"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/DirectoryMainWindow.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/DirectoryMainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/RootViewController.xib"
+s309901043.554317
+e309901044.248409
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/RootViewController.xib
+lSLF07#2@41"CompileXIB Classes/RootViewController.xib309901043#309901044#0(0"0(0#0#108"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/RootViewController.xib8618478336#723"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/RootViewController.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/RootViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SecondView.xib"
+s309901043.792236
+e309901044.571560
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SecondView.xib
+lSLF07#2@33"CompileXIB Classes/SecondView.xib309901043#309901044#0(0"0(0#0#100"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SecondView.xib8621955776#707"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/SecondView.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/SecondView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/campusMap.xib"
+s309901047.629154
+e309901048.742907
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/campusMap.xib
+lSLF07#2@32"CompileXIB Classes/campusMap.xib309901047#309901048#0(0"0(0#0#99"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/campusMap.xib8619048992#705"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/campusMap.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/campusMap.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/directory.xib"
+s309901041.612628
+e309901042.299708
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/directory.xib
+lSLF07#2@32"CompileXIB Classes/directory.xib309901041#309901042#0(0"0(0#0#99"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/directory.xib8622048544#705"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/directory.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/directory.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/map.xib"
+s309901042.244296
+e309901043.088453
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/map.xib
+lSLF07#2@26"CompileXIB Classes/map.xib309901042#309901043#0(0"0(0#0#93"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/map.xib8620833856#693"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/map.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/map.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsMain.xib"
+s309901042.956978
+e309901043.554111
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsMain.xib
+lSLF07#2@33"CompileXIB Classes/sportsMain.xib309901042#309901043#0(0"0(0#0#100"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsMain.xib8618957664#707"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/sportsMain.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsMain.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBar.xib"
+s309901043.088560
+e309901043.792137
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBar.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBar.xib:5: warning: 'View Controller (News)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.
+o/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBar.xib:6: warning: 'Selected View Controller (Scores)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.
+o/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBar.xib:10: warning: 'View Controller (Schedule)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.
+lSLF07#2@35"CompileXIB Classes/sportsTabBar.xib309901043#309901043#0(741"/* com.apple.ibtool.document.warnings *//Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBar.xib:5: warning: 'View Controller (News)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported./Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBar.xib:6: warning: 'Selected View Controller (Scores)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported./Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBar.xib:10: warning: 'View Controller (Schedule)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.3(22@112"'View Controller (News)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.309901043#18446744073709551615#0#0(6@102"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBar.xib267949414#5#0#5#0#0"0(22@123"'Selected View Controller (Scores)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.309901043#18446744073709551615#0#0(6@102"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBar.xib267949414#6#0#6#0#0"0(22@116"'View Controller (Schedule)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.309901043#18446744073709551615#0#0(6@102"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBar.xib267949414#10#0#10#0#0"0(0#0#102"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBar.xib8617703488#711"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/sportsTabBar.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsTabBar.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsView.xib"
+s309901042.299811
+e309901042.956879
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsView.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsView.xib:3: warning: UIScrollView's 'Bounce Zoom' option will be ignored on iPhone OS versions prior to 2.1.
+o/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsView.xib:-1: warning: The 'tableView' outlet of 'File's Owner' is connected to 'Table View' but 'tableView' is no longer defined on SportsViewController.
+lSLF07#2@33"CompileXIB Classes/sportsView.xib309901042#309901042#0(488"/* com.apple.ibtool.document.warnings *//Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsView.xib:3: warning: UIScrollView's 'Bounce Zoom' option will be ignored on iPhone OS versions prior to 2.1./Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsView.xib:-1: warning: The 'tableView' outlet of 'File's Owner' is connected to 'Table View' but 'tableView' is no longer defined on SportsViewController.2(22@87"UIScrollView's 'Bounce Zoom' option will be ignored on iPhone OS versions prior to 2.1.309901042#18446744073709551615#0#0(6@100"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsView.xib268543057#3#0#3#0#0"0(22@131"The 'tableView' outlet of 'File's Owner' is connected to 'Table View' but 'tableView' is no longer defined on SportsViewController.309901042#18446744073709551615#0#0(6@100"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsView.xib268543057#18446744073709551615#0#18446744073709551615#0#0"0(0#0#100"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsView.xib8620198560#707"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/sportsView.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/sportsView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/MainWindow.xib"
+s309901039.449650
+e309901041.611384
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib309901039#309901041#0(0"0(0#0#92"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/MainWindow.xib8622898688#699"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/MainWindow.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/activity_indicator.xib"
+s309901049.983653
+e309901050.685476
+r0
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/activity_indicator.xib
+lSLF07#2@33"CompileXIB activity_indicator.xib309901049#309901050#0(0"0(0#0#100"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/activity_indicator.xib8618783840#715"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/activity_indicator.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/activity_indicator.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk2#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customCalendarXib.xib"
+s309901049.328280
+e309901049.964929
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customCalendarXib.xib
+lSLF07#2@32"CompileXIB customCalendarXib.xib309901049#309901050#0(0"0(0#0#99"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customCalendarXib.xib8622503808#713"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/customCalendarXib.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customCalendarXib.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customNewsCell.xib"
+s309901049.267921
+e309901050.145332
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customNewsCell.xib
+lSLF07#2@29"CompileXIB customNewsCell.xib309901049#309901050#0(0"0(0#0#96"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customNewsCell.xib8618928704#707"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/customNewsCell.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customNewsCell.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsCell.xib"
+s309901045.556621
+e309901046.171501
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsCell.xib
+lSLF07#2@31"CompileXIB customSportsCell.xib309901045#309901046#0(0"0(0#0#98"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsCell.xib8617124768#711"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/customSportsCell.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsCell.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsViewControllerCell.xib"
+s309901046.171602
+e309901047.629055
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsViewControllerCell.xib
+lSLF07#2@45"CompileXIB customSportsViewControllerCell.xib309901046#309901047#0(0"0(0#0#112"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsViewControllerCell.xib8622887584#739"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/customSportsViewControllerCell.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/customSportsViewControllerCell.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/fullArticle.xib"
+s309901044.571722
+e309901045.479900
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/fullArticle.xib
+lSLF07#2@26"CompileXIB fullArticle.xib309901044#309901045#0(0"0(0#0#93"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/fullArticle.xib8617304448#701"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/fullArticle.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/fullArticle.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newsMain.xib"
+s309901048.744595
+e309901049.267809
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newsMain.xib
+lSLF07#2@23"CompileXIB newsMain.xib309901048#309901049#0(0"0(0#0#90"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newsMain.xib8622109344#695"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/newsMain.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newsMain.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/readFullArticle.xib"
+s309901045.056373
+e309901046.206870
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/readFullArticle.xib
+lSLF07#2@30"CompileXIB readFullArticle.xib309901045#309901046#0(0"0(0#0#97"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/readFullArticle.xib8621267552#709"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/readFullArticle.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/readFullArticle.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/splashScreen.xib"
+s309901039.451909
+e309901042.244194
+r1
+xCompileXIB
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/splashScreen.xib
+lSLF07#2@27"CompileXIB splashScreen.xib309901039#309901042#0(0"0(0#0#94"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/splashScreen.xib8622048736#703"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/splashScreen.nib" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/splashScreen.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/StockSports.jpg StockSports.jpg
+s309901045.545077
+e309901045.580588
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/StockSports.jpg
+xStockSports.jpg
+lSLF07#2@20"Copy StockSports.jpg309901045#309901045#0(0"0(0#0#93"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/StockSports.jpg8617437920#588"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/StockSports.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/baseball.jpg baseball.jpg
+s309901045.482008
+e309901045.538955
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/baseball.jpg
+xbaseball.jpg
+lSLF07#2@17"Copy baseball.jpg309901045#309901045#0(0"0(0#0#90"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/baseball.jpg8619363008#585"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/baseball.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/basketball.jpg basketball.jpg
+s309901045.483060
+e309901045.539075
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/basketball.jpg
+xbasketball.jpg
+lSLF07#2@19"Copy basketball.jpg309901045#309901045#0(0"0(0#0#92"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/basketball.jpg8619205504#587"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/basketball.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/calendar.jpg calendar.jpg
+s309901041.611630
+e309901041.770291
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/calendar.jpg
+xcalendar.jpg
+lSLF07#2@17"Copy calendar.jpg309901041#309901041#0(0"0(0#0#90"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/calendar.jpg8622410784#585"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/calendar.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/campusmap.jpg Classes/campusmap.jpg
+s309901046.206969
+e309901047.131068
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/campusmap.jpg
+xClasses/campusmap.jpg
+lSLF07#2@26"Copy Classes/campusmap.jpg309901046#309901047#0(0"0(0#0#99"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/campusmap.jpg8621688000#594"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/Classes/campusmap.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/crosscountry.jpg crosscountry.jpg
+s309901045.488133
+e309901045.539190
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/crosscountry.jpg
+xcrosscountry.jpg
+lSLF07#2@21"Copy crosscountry.jpg309901045#309901045#0(0"0(0#0#94"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/crosscountry.jpg8619084352#589"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/crosscountry.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/fieldhockey.jpg fieldhockey.jpg
+s309901045.489144
+e309901045.539305
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/fieldhockey.jpg
+xfieldhockey.jpg
+lSLF07#2@20"Copy fieldhockey.jpg309901045#309901045#0(0"0(0#0#93"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/fieldhockey.jpg8618895392#588"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/fieldhockey.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/food.png food.png
+s309901049.965025
+e309901049.989143
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/food.png
+xfood.png
+lSLF07#2@13"Copy food.png309901049#309901050#0(0"0(0#0#86"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/food.png8626395840#581"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/food.png" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/football.jpg football.jpg
+s309901045.494965
+e309901045.539418
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/football.jpg
+xfootball.jpg
+lSLF07#2@17"Copy football.jpg309901045#309901045#0(0"0(0#0#90"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/football.jpg8618819648#585"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/football.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/golf.jpg golf.jpg
+s309901045.496022
+e309901045.539534
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/golf.jpg
+xgolf.jpg
+lSLF07#2@13"Copy golf.jpg309901045#309901045#0(0"0(0#0#86"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/golf.jpg8618668160#581"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/golf.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/hockey.jpg hockey.jpg
+s309901045.502508
+e309901045.539689
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/hockey.jpg
+xhockey.jpg
+lSLF07#2@15"Copy hockey.jpg309901045#309901045#0(0"0(0#0#88"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/hockey.jpg8618566720#583"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/hockey.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/icon.png icon.png
+s309901049.976987
+e309901050.047667
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png309901049#309901050#0(0"0(0#0#86"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/icon.png8624493120#581"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/icon.png" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/newspaper.jpg newspaper.jpg
+s309901048.743070
+e309901048.757521
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/newspaper.jpg
+xnewspaper.jpg
+lSLF07#2@18"Copy newspaper.jpg309901048#309901048#0(0"0(0#0#91"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newspaper.jpg8623552608#586"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/newspaper.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/people.jpg people.jpg
+s309901049.970722
+e309901049.995438
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/people.jpg
+xpeople.jpg
+lSLF07#2@15"Copy people.jpg309901049#309901050#0(0"0(0#0#88"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/people.jpg8616745792#583"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/people.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/person.jpg person.jpg
+s309901049.975128
+e309901050.007605
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/person.jpg
+xperson.jpg
+lSLF07#2@15"Copy person.jpg309901049#309901050#0(0"0(0#0#88"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/person.jpg8623272224#583"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/person.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/soccer.jpg soccer.jpg
+s309901045.506403
+e309901045.572558
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/soccer.jpg
+xsoccer.jpg
+lSLF07#2@15"Copy soccer.jpg309901045#309901045#0(0"0(0#0#88"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/soccer.jpg8618239936#583"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/soccer.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/tennis.jpg tennis.jpg
+s309901045.539774
+e309901045.580455
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/tennis.jpg
+xtennis.jpg
+lSLF07#2@15"Copy tennis.jpg309901045#309901045#0(0"0(0#0#88"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/tennis.jpg8617951680#583"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/tennis.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/trackandfield.jpg trackandfield.jpg
+s309901045.542821
+e309901045.572418
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/trackandfield.jpg
+xtrackandfield.jpg
+lSLF07#2@22"Copy trackandfield.jpg309901045#309901045#0(0"0(0#0#95"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/trackandfield.jpg8617733248#590"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/trackandfield.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/volleyball.jpg volleyball.jpg
+s309901045.480002
+e309901045.538821
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/volleyball.jpg
+xvolleyball.jpg
+lSLF07#2@19"Copy volleyball.jpg309901045#309901045#0(0"0(0#0#92"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/volleyball.jpg8619600544#587"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/volleyball.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/wfu_logo.jpg wfu_logo.jpg
+s309901049.326385
+e309901049.342515
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/wfu_logo.jpg
+xwfu_logo.jpg
+lSLF07#2@17"Copy wfu_logo.jpg309901049#309901049#0(0"0(0#0#90"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/wfu_logo.jpg8619272576#585"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/wfu_logo.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CCpResource build/Debug-iphonesimulator/CampusConnect.app/world.jpg world.jpg
+s309901049.966705
+e309901050.001209
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CampusConnect.app/world.jpg
+xworld.jpg
+lSLF07#2@14"Copy world.jpg309901049#309901050#0(0"0(0#0#87"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/world.jpg8616668544#582"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/world.jpg" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"0#
+
+CGenerateDSYMFile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app.dSYM" "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/CampusConnect"
+r0
+
+CLd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/CampusConnect" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/Info.plist" CampusConnect-Info.plist
+s309901039.413899
+e309901039.449553
+r1
+xProcessInfoPlistFile
+x/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/Info.plist
+xCampusConnect-Info.plist
+lSLF07#2@32"Process CampusConnect-Info.plist309901039#309901039#0(0"0(0#0#102"/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/CampusConnect-Info.plist8616914592#620"    cd "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CampusConnect-Info.plist -genpkginfo "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app/Info.plist"0#
+
+CProcessPCH /var/folders/XJ/XJ0spqiwGcOICSU4dM4Nsk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CampusConnect_Prefix-ciioutqudnmtyzbzemhxpnhsjwzb/CampusConnect_Prefix.pch.gch CampusConnect_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/cerniglia/Desktop/iPhone Apps/Final Wake Forest iPhone code/mainScreen/build/Debug-iphonesimulator/CampusConnect.app"
+r0
+
